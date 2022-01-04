@@ -1,3 +1,5 @@
+// rafael oliveira me ajudou nesse requisito
+
 const actorFav = [
   "Sandra Bullock",
   "Tom Hanks",
